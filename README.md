@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, tech and creativity!
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me via mail.
+- 📫 Write me at and.business.fran@gmail.com
 
 <!---
 franziskapendzialek/franziskapendzialek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
