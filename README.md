@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @franziskapendzialek
 - 👀 I’m interested in music, tech and creativity!
-- 🌱 I’m currently a Junior Software Developer @ hubblr.io 🎉
+- 🌱 I’m currently a Software Developer @ hubblr.io 🎉
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 Write me at and.business.fran@gmail.com
 
