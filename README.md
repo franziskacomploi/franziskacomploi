@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @franziska
-- 👀 I’m interested in writing, music, and analogue photography!
-- 🌱 I’m currently working as a CRM Manager 🎉
+- ⚡ In love with Tech, Product and bringing new ideas to the table.
+- 👀 I’m interested in music, knitting and analogue photography!
+- 🌱 I’m working as a Software Engineer 🎉
+
+👩‍💻 What I’m proud of: 
+- Leadership: Means empathy and conscious communication to me. No exception!
+- Self-taught myself Programming => No matter which new tech tools or problem to solve, I can handle it.
+- Speaker: Took part in a Panel Discussion for Women in Tech Sweden
+- Creativity & Empathy: I love to follow impactful ideas
 
 <!---
 franziskapendzialek/franziskapendzialek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
