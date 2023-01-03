@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @franziska
 ⚡ In love with Tech, Product and bringing new ideas to the table.
-👀 Focusing on *Javascript, Typescript, Python, Java, C++* and eager to learn new things.
+👀 Focusing on *Javascript, Typescript, Python* and eager to learn new things.
 
 🌱 I’m working as a Software Engineer 🎉
 
