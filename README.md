@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m @franziska
 💚 In love with everything that makes our world a better place. For more empathy in our digital world, for our nature and for humanity. 
+
 👀 Working with *Javascript, Typescript, Python*, and eager to learn new things.
 
 🌱 I’m working as a Software Engineer 🎉
