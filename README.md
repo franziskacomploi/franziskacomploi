@@ -1,9 +1,11 @@
 ### 👋 Hi, I’m @franziska
-💚 In love with everything that makes our world a better place. For more empathy in our digital world, for our nature and for humanity. 
+I'm an experienced software developer foucsing on full-stack Javascript frameworks such as Vue.js, React.js and Node.js. Building websites that perforam and are accessible is part of my daily job. On the side I'm constantly learning more about cloud technologies and data science, such as learning to mastering Python and Pipelines.  
+
+☕️ My experience spans across different start-ups, ecommerse and finance. 
+
+Additionally, I’m a strategic thinker, problem-solver and a structured personality with an analytical mindset that has worked with different KPIs, OKRs and agile methods.
 
 👀 Working with *Javascript, Typescript, Python*, and eager to learn new things.
-
-🌱 I’m working as a Software Engineer 🎉
 
 ☕️ I have experience in e-commerce, start-ups and worked in different areas such as software development, marketing & data analytics and product management. Focusing on engineering, sustainability & data.
 Additionally, I’m a problem-solver and a structured personality with an analytical mindset that has worked with different KPIs, OKRs and agile methods.
